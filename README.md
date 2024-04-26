@@ -23,7 +23,7 @@
    * cd Frontend
    * cd blog
 
-   1. to install dependencies for reacu run this command : npm install
+   1. to install dependencies for react run this command : npm install
    2. run the program : npm start
 
 
